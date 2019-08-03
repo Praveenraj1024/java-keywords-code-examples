@@ -2,6 +2,9 @@ package com.stackroute.arrays;
 
 import java.util.Scanner;
 
+/**
+ * This class as a main method to pass the values to corresponding methods.
+ */
 public class ArraysMain {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
